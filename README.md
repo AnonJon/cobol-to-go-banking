@@ -17,6 +17,8 @@ stack. Built to demonstrate AI-assisted legacy modernization in banking/fintech.
 | **[`cbsa-modern/`](./cbsa-modern/)** | Go API, React TypeScript frontend, PostgreSQL, Docker Compose             | Yes — `docker-compose up` on any laptop      |
 | **[`cbsa-legacy/`](./cbsa-legacy/)** | 29 COBOL programs, 37 copybooks, 100 JCL files, BMS maps, Spring Boot UIs | No — requires IBM z/OS mainframe ($500K+/yr) |
 
+> The legacy source was forked from the original IBM open source project: **[cicsdev/cics-banking-sample-application-cbsa](https://github.com/cicsdev/cics-banking-sample-application-cbsa)**
+
 ## Table of Contents
 
 - [Repository Layout](#repository-layout)
