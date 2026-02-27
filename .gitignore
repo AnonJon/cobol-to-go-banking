@@ -26,3 +26,16 @@ CSAR-CBSA.xml
 CSAR-CBSA.xml.out
 appscan-config.xml
 appscan-config.xml
+
+# cbsa-modern
+cbsa-modern/frontend/node_modules
+cbsa-modern/frontend/build
+cbsa-modern/frontend/dist
+cbsa-modern/frontend/coverage
+cbsa-modern/frontend/logs
+cbsa-modern/frontend/reports
+cbsa-modern/frontend/test-results
+cbsa-modern/frontend/test-reports
+
+cbsa-modern/frontend/.env
+cbsa-modern/frontend/.envrc
